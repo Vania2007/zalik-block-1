@@ -4,6 +4,7 @@
 			<a href="./" class="logo m-0">Dreamtour<span class="text-primary"> .</span></a>
 				<ul class="js-clone-nav d-none d-lg-inline-block text-left site-menu float-right">
 					<li><a href="./">Головна</a></li>
+					<li><a href="./tours.php">Тури</a></li>
 					<li><a href="contacts.php">Контакти</a></li>
 				<?php if (isset($_GET['login'])): ?>
                    <li><a class="nav-item nav-link" href="logout.php">Вийти</a></li>
